@@ -1,2 +1,3 @@
-# sim_files_for_example_notebooks
-Pre-computed simulation files that can be used when running example notebooks
+This repository contains the pre-computed simulation files provided with the [`hdsims`](https://github.com/CMB-HD/hdsims) [example](https://github.com/CMB-HD/hdsims/blob/main/examples/example_2x2.ipynb) Jupyter notebook. These files can be downloaded before running the example to speed up the calculations; the instructions to do this are provided within the example notebook. 
+
+These simulations are generated on a small patch of the sky (four square degrees). **The larger 121-square-degree ultrahigh-resolution simulations are available on [TODO:LINK2LAMBDA](https://lambda.gsfc.nasa.gov)**, and the [`hdsims`](https://github.com/CMB-HD/hdsims) package provides the code (along with examples) to generate new simulations.
